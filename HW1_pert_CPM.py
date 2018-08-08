@@ -699,7 +699,7 @@ class TestPert2(unittest.TestCase):
 
 
 def read():
-    with open('HW1_Nofar_Alfasi_Pert_CPM.log') as f:
+    with open('HW1_Nofar_Pert_CPM.log') as f:
         print("log file content:")
         print(f.read())
 
